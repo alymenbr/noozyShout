@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/alysson/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/alysson/Projetos/noozyShout/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-262837210f52cb6982bd4dd7396f9e59d8c282c4.jar" />
+    </item>
+
+</items>
